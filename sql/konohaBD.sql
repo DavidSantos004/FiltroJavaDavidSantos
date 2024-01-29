@@ -100,3 +100,4 @@ INSERT INTO Ninja (ID, Nombre, Rango, Aldea) VALUES
 
 
 
+
